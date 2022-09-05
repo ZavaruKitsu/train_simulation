@@ -18,8 +18,8 @@ Implement a simulation model of the Omsk subway and calculate the optimal number
 ## How to run
 
 ```shell
-git clone https://github.com/ZavaruKitsu/practice6
-cd practice6
+git clone https://github.com/ZavaruKitsu/train_simulation
+cd train_simulation
 
 # setup virtual environment
 python -m venv venv
